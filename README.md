@@ -7,8 +7,8 @@ Prosty program command line do normalizacji wejściowej listy liczb do przedzia�
 Pobierz repozytorium oraz uruchom skrypt instalatora `installer.sh`. Podążaj za podanymi instrukcjami.
 
 ```
-git clone [https://github.com/SAJJ305/lab14/.git](https://github.com/SAJJ305/lab14/.git)
-cd lab14
+git clone [https://github.com/SAJJ305/lab13/.git](https://github.com/SAJJ305/lab13/.git)
+cd lab13
 chmod +x installer.sh
 ./installer.sh
 ```
